@@ -4,6 +4,7 @@ update the script at 'scripts/release/update-slugs-table.js'.
 -->
 
 # Simple Icons slugs
+- https://simpleicons.org/
 
 | Brand name | Brand slug |
 | :--- | :--- |
